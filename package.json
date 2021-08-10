@@ -1,0 +1,24 @@
+{
+  "name": "@wniemiec-component-reactnative/modal",
+  "version": "1.0.0",
+  "description": "Message box that is displayed on top of your screen.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wniemiec-components-reactnative/modal.git"
+  },
+  "keywords": [
+    "wniemiec",
+    "component",
+    "reactnative",
+    "modal",
+    "message-box",
+    "dialog"
+  ],
+  "author": "William Niemiec <williamniemiec@hotmail.com> (https://www.linkedin.com/in/williamniemiec)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wniemiec-components-reactnative/modal/issues"
+  },
+  "homepage": "https://github.com/wniemiec-components-reactnative/modal#readme"
+}
